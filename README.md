@@ -10,5 +10,5 @@
 ### FloatingBoxs
 
 实现了悬浮物体
-![](https://github.com/Abelabc/UE5_Project/blob/main/Shared_Video/floatibox.gif)
+![](https://github.com/Abelabc/UE5_Project/blob/main/Shared_Video/floatingbox.gif)
 
